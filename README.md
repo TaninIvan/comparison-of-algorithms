@@ -1,1 +1,1 @@
-# -omparison-of-algorithms
+# Comparison-of-algorithms
